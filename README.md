@@ -1,1 +1,4 @@
 Aplicación web que permite a los usuarios publicar, visualizar y eliminar comentarios en tiempo real. Utiliza una Web API desarrollada con Node.js y Express para gestionar los datos mediante peticiones GET, POST y DELETE. El frontend está construido con HTML, CSS y JavaScript, implementando consumo de API con fetch, validaciones de datos y actualización dinámica de la interfaz.
+
+Sitio web:
+https://gestioncomentarios.netlify.app
